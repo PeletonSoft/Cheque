@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.4" icons="true" always-add-relationships="true" generalizations="true" realizations="true" 
+  associations="true" dependencies="true" nesting-relationships="true">  
+  <interface id="1" language="java" name="com.peleton.cheque.model.ShopFactory" project="cheque"
+    file="/cheque/src/com/peleton/cheque/model/ShopFactory.java" binary="false" corner="BOTTOM_RIGHT">
+    <position height="-1" width="-1" x="127" y="74"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="2" language="java" name="com.peleton.cheque.model.Shop" project="cheque"
+    file="/cheque/src/com/peleton/cheque/model/Shop.java" binary="false" corner="BOTTOM_RIGHT">
+    <position height="-1" width="-1" x="137" y="246"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="3" language="java" name="com.peleton.cheque.model.User" project="cheque"
+    file="/cheque/src/com/peleton/cheque/model/User.java" binary="false" corner="BOTTOM_RIGHT">
+    <position height="-1" width="-1" x="143" y="402"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="4" language="java" name="com.peleton.cheque.model.Cheque" project="cheque"
+    file="/cheque/src/com/peleton/cheque/model/Cheque.java" binary="false" corner="BOTTOM_RIGHT">
+    <position height="-1" width="-1" x="383" y="72"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="5" language="java" name="com.peleton.cheque.model.ChequePositions" project="cheque"
+    file="/cheque/src/com/peleton/cheque/model/ChequePositions.java" binary="false" corner="BOTTOM_RIGHT">
+    <position height="-1" width="-1" x="604" y="62"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="6" language="java" name="com.peleton.cheque.model.ChequePosition" project="cheque"
+    file="/cheque/src/com/peleton/cheque/model/ChequePosition.java" binary="false" corner="BOTTOM_RIGHT">
+    <position height="-1" width="-1" x="657" y="277"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="7" language="java" name="com.peleton.cheque.model.ChequePositionInfo" project="cheque"
+    file="/cheque/src/com/peleton/cheque/model/ChequePositionInfo.java" binary="false" corner="BOTTOM_RIGHT">
+    <position height="-1" width="-1" x="861" y="319"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="8" language="java" name="com.peleton.cheque.model.StoreInfoFindResult" project="cheque"
+    file="/cheque/src/com/peleton/cheque/model/StoreInfoFindResult.java" binary="false" corner="BOTTOM_RIGHT">
+    <position height="-1" width="-1" x="358" y="624"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="9" language="java" name="com.peleton.cheque.model.StoreInfoSelectResult" project="cheque"
+    file="/cheque/src/com/peleton/cheque/model/StoreInfoSelectResult.java" binary="false" corner="BOTTOM_RIGHT">
+    <position height="-1" width="-1" x="621" y="553"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="10" language="java" name="com.peleton.cheque.model.ChequePositionNotify" project="cheque"
+    file="/cheque/src/com/peleton/cheque/model/ChequePositionNotify.java" binary="false" corner="BOTTOM_RIGHT">
+    <position height="-1" width="-1" x="600" y="666"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="11" language="java" name="com.peleton.cheque.model.SendResult" project="cheque"
+    file="/cheque/src/com/peleton/cheque/model/SendResult.java" binary="false" corner="BOTTOM_RIGHT">
+    <position height="-1" width="-1" x="799" y="570"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="com.peleton.cheque.model.CheckResult" project="cheque"
+    file="/cheque/src/com/peleton/cheque/model/CheckResult.java" binary="false" corner="BOTTOM_RIGHT">
+    <position height="-1" width="-1" x="110" y="569"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+    accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

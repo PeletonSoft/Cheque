@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\Work\\Android\\cheque\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login.xml",
+        "source": "D:\\Work\\Android\\cheque\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\cheque\\app\\build\\intermediates\\res\\merged\\debug\\menu\\cheque.xml",
+        "source": "D:\\Work\\Android\\cheque\\app\\src\\main\\res\\menu\\cheque.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\cheque\\app\\build\\intermediates\\res\\merged\\debug\\menu\\select.xml",
+        "source": "D:\\Work\\Android\\cheque\\app\\src\\main\\res\\menu\\select.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\cheque\\app\\build\\intermediates\\res\\merged\\debug\\menu\\revise.xml",
+        "source": "D:\\Work\\Android\\cheque\\app\\src\\main\\res\\menu\\revise.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\cheque\\app\\build\\intermediates\\res\\merged\\debug\\menu\\info.xml",
+        "source": "D:\\Work\\Android\\cheque\\app\\src\\main\\res\\menu\\info.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\cheque\\app\\build\\intermediates\\res\\merged\\debug\\menu\\search.xml",
+        "source": "D:\\Work\\Android\\cheque\\app\\src\\main\\res\\menu\\search.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\cheque\\app\\build\\intermediates\\res\\merged\\debug\\menu\\setting.xml",
+        "source": "D:\\Work\\Android\\cheque\\app\\src\\main\\res\\menu\\setting.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\cheque\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Work\\Android\\cheque\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

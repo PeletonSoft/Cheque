@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Work\\Android\\cheque\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_scan.png",
+        "source": "D:\\Work\\Android\\cheque\\app\\src\\main\\res\\drawable-xxhdpi\\ic_scan.png"
+    },
+    {
+        "merged": "D:\\Work\\Android\\cheque\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\Work\\Android\\cheque\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Work\\Android\\cheque\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_cart.png",
+        "source": "D:\\Work\\Android\\cheque\\app\\src\\main\\res\\drawable-xxhdpi\\ic_cart.png"
+    },
+    {
+        "merged": "D:\\Work\\Android\\cheque\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_search.png",
+        "source": "D:\\Work\\Android\\cheque\\app\\src\\main\\res\\drawable-xxhdpi\\ic_search.png"
+    }
+]

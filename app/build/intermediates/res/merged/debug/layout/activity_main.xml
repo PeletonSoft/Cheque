@@ -1,0 +1,131 @@
+<LinearLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity" >
+
+	<LinearLayout
+    	android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"
+    	android:orientation="horizontal" >
+    	
+    	<TextView
+    	    android:layout_width="0dp"
+    	    android:layout_height="wrap_content"
+    	    android:layout_weight="10"
+    	    android:background="@drawable/caption_border"
+    	    android:gravity="center"
+    	    android:text="@string/caption_article_id"
+    	    android:textSize="14sp" />
+
+        <TextView
+            android:layout_width="90dp"
+            android:layout_height="wrap_content"
+    	    android:background="@drawable/caption_border"
+            android:gravity="center"
+            android:text="@string/caption_quant"
+            android:textSize="14sp" />
+
+        <TextView
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+    	    android:background="@drawable/caption_border"
+            android:gravity="center"
+            android:text="@string/caption_discount"
+            android:textSize="14sp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="15"
+    	    android:background="@drawable/caption_border"
+            android:gravity="center"
+            android:text="@string/caption_price"
+            android:textSize="14sp" />
+		
+	</LinearLayout>
+
+    <ListView
+        android:id="@+id/positions"
+        android:layout_width="fill_parent" 
+        android:layout_height="wrap_content"/>
+        	
+	<LinearLayout
+    	android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"
+    	android:orientation="horizontal" >
+    	
+    	<com.peleton.cheque.CustomEditText
+    	    android:id="@+id/new_position"
+    	    android:layout_width="0dp"
+			android:layout_weight="10"
+			android:background="@drawable/active_border"
+    	    android:layout_height="match_parent"
+    	    android:gravity="center_vertical|center_horizontal"
+    	    android:imeActionLabel="Ввод"
+    	    android:inputType="number"
+    	    android:selectAllOnFocus="true"
+    	    android:textSize="14sp" />
+    	
+        <LinearLayout
+            android:layout_width="90dp"
+            android:orientation="horizontal"
+            android:layout_height="match_parent"
+            android:background="@drawable/border"
+            android:gravity="center"
+            android:textSize="14sp" >
+            
+            <ImageButton
+                android:id="@+id/scan"
+                android:layout_width="40dp"
+                android:layout_height="27dp"
+                android:layout_gravity="left"
+                android:layout_marginRight="2dp"
+                android:src="@drawable/ic_scan" 
+                android:contentDescription="@string/caption_scan" />
+            
+            <ImageButton
+                android:id="@+id/search"
+                android:layout_width="40dp"
+                android:layout_height="27dp"
+                android:layout_gravity="left"
+                android:layout_marginLeft="2dp"
+                android:contentDescription="@string/caption_search"
+                android:src="@drawable/ic_search" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/number"
+            android:layout_width="70dp"
+            android:layout_height="match_parent"
+            android:background="@drawable/border"
+            android:gravity="center"
+            android:textColor="@color/color_result"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/sum"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="15"
+            android:background="@drawable/border"
+            android:gravity="center"
+            android:textColor="@color/color_result"            
+            android:textSize="14sp" />
+		
+	</LinearLayout>
+
+	<TextView
+	    android:id="@+id/error"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_gravity="left" />
+	
+</LinearLayout>

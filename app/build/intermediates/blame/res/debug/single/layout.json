@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\Work\\Android\\cheque\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cheque_view.xml",
+        "source": "D:\\Work\\Android\\cheque\\app\\src\\main\\res\\layout\\cheque_view.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\cheque\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_view.xml",
+        "source": "D:\\Work\\Android\\cheque\\app\\src\\main\\res\\layout\\search_view.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\cheque\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search.xml",
+        "source": "D:\\Work\\Android\\cheque\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\cheque\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_info.xml",
+        "source": "D:\\Work\\Android\\cheque\\app\\src\\main\\res\\layout\\activity_info.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\cheque\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "D:\\Work\\Android\\cheque\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\cheque\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\Work\\Android\\cheque\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\cheque\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_view.xml",
+        "source": "D:\\Work\\Android\\cheque\\app\\src\\main\\res\\layout\\select_view.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\cheque\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_revise.xml",
+        "source": "D:\\Work\\Android\\cheque\\app\\src\\main\\res\\layout\\activity_revise.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\cheque\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Work\\Android\\cheque\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\cheque\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select.xml",
+        "source": "D:\\Work\\Android\\cheque\\app\\src\\main\\res\\layout\\activity_select.xml"
+    }
+]

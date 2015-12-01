@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Work\\Android\\cheque\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border.xml",
+        "source": "D:\\Work\\Android\\cheque\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\cheque\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\caption_border.xml",
+        "source": "D:\\Work\\Android\\cheque\\app\\src\\main\\res\\drawable\\caption_border.xml"
+    },
+    {
+        "merged": "D:\\Work\\Android\\cheque\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\active_border.xml",
+        "source": "D:\\Work\\Android\\cheque\\app\\src\\main\\res\\drawable\\active_border.xml"
+    }
+]

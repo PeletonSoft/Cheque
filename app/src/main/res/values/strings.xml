@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Чеки</string>
+    <string name="title_activity_login">Авторизация</string>
+    <string name="title_activity_setting">Настройки</string>
+    <string name="title_activity_main">Чеки</string>
+    <string name="title_activity_select">Выбор позиций</string>
+    <string name="title_activity_info">Информация</string>
+    <string name="action_settings">Настройки</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="login_caption">Выберите сотрудника в нужном магазине и введите пароль</string>
+    <string name="shop_caption">Магазин</string>
+    <string name="user_caption">Сотрудник</string>
+    <string name="password_caption">Пароль</string>
+    <string name="refresh_caption">Обновить</string>
+    <string name="exit_caption">Выйти</string>
+    <string name="enter_caption">Войти</string>
+    <string name="action_delete_position">Удалить позицию</string>
+    <string name="action_info">Информация</string>
+    <string name="preferences_file">mysettings</string>
+    <string name="preferences_server">httpserver</string>
+    <string name="preferences_key">key</string>
+    <string name="preferences_theme">theme</string>
+    <string name="preferences_shop">shopId</string>
+    <string name="save">Сохранить</string>
+    <string name="shopId">Код магазина</string>
+    <string name="theme">Тема</string>
+    <string name="key">Ключ</string>
+    <string name="server">Сервер</string>
+    <string name="select_caption">Выбрать</string>
+    <string name="send_caption">Отправить</string>
+    <string name="clear_caption">Очистить</string>
+    <string name="caption_article_id">Код</string>
+    <string name="caption_article">Артикул</string>
+    <string name="caption_quant">Количество</string>
+    <string name="caption_quant_s">Кол-во</string>
+    <string name="caption_discount">Скидка</string>
+    <string name="caption_price">Цена</string>
+    <string name="caption_store">Склад</string>
+    <string name="caption_attr">Инфо</string>
+    <string name="caption_select">Выбор</string>
+    <string name="caption_scan">Скан</string>
+    <string name="caption_search">Поиск</string>
+    <string name="title_activity_search">Поиск</string>
+    <string name="title_activity_revise">Ревизия</string>
+    <string name="caption_revise">Ревизия</string>
+
+</resources>
