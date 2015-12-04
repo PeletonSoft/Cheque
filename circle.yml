@@ -1,4 +1,3 @@
-
 machine:
   java:
     # latest wiremock version needs java 8
